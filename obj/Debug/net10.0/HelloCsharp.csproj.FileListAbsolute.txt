@@ -1,0 +1,14 @@
+/Users/kalunge/Desktop/projects/microsoft-prep/HelloCsharp/bin/Debug/net10.0/HelloCsharp
+/Users/kalunge/Desktop/projects/microsoft-prep/HelloCsharp/bin/Debug/net10.0/HelloCsharp.deps.json
+/Users/kalunge/Desktop/projects/microsoft-prep/HelloCsharp/bin/Debug/net10.0/HelloCsharp.runtimeconfig.json
+/Users/kalunge/Desktop/projects/microsoft-prep/HelloCsharp/bin/Debug/net10.0/HelloCsharp.dll
+/Users/kalunge/Desktop/projects/microsoft-prep/HelloCsharp/bin/Debug/net10.0/HelloCsharp.pdb
+/Users/kalunge/Desktop/projects/microsoft-prep/HelloCsharp/obj/Debug/net10.0/HelloCsharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kalunge/Desktop/projects/microsoft-prep/HelloCsharp/obj/Debug/net10.0/HelloCsharp.AssemblyInfoInputs.cache
+/Users/kalunge/Desktop/projects/microsoft-prep/HelloCsharp/obj/Debug/net10.0/HelloCsharp.AssemblyInfo.cs
+/Users/kalunge/Desktop/projects/microsoft-prep/HelloCsharp/obj/Debug/net10.0/HelloCsharp.csproj.CoreCompileInputs.cache
+/Users/kalunge/Desktop/projects/microsoft-prep/HelloCsharp/obj/Debug/net10.0/HelloCsharp.dll
+/Users/kalunge/Desktop/projects/microsoft-prep/HelloCsharp/obj/Debug/net10.0/refint/HelloCsharp.dll
+/Users/kalunge/Desktop/projects/microsoft-prep/HelloCsharp/obj/Debug/net10.0/HelloCsharp.pdb
+/Users/kalunge/Desktop/projects/microsoft-prep/HelloCsharp/obj/Debug/net10.0/HelloCsharp.genruntimeconfig.cache
+/Users/kalunge/Desktop/projects/microsoft-prep/HelloCsharp/obj/Debug/net10.0/ref/HelloCsharp.dll
