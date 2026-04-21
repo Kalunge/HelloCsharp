@@ -1,9 +1,12 @@
-﻿// Variables
-string firstName;
-string FirstName;
-// The abvove two are different
+﻿string firstName = "Bob";
 
-char userOption;
-int gameScore;
-decimal particlesPerMillion;
-bool processedCustomer;
+Console.WriteLine(firstName);
+
+// implicitly typed variaboes
+var message = "Hello World ";
+
+message = "Come Here";
+
+// implicitly typed variables must be initialised
+// var message
+
