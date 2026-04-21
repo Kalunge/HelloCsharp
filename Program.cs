@@ -1,10 +1,8 @@
-﻿// String Literals
-Console.WriteLine("Hello World!");
+﻿
+// floatpoint literals
+Console.WriteLine(0.25f);
 
 
-// Caharacter Literals
-Console.WriteLine('b');
-// Console.WriteLine('Hello World');
+Console.WriteLine(2.625);
 
-// integer Literals
-Console.WriteLine(123);
+Console.WriteLine(12.39816m);
