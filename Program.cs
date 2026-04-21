@@ -5,5 +5,10 @@
 // Console.Write(" ");
 // Console.Write(("You wrote your first lines of code in Csharp"));
 
-Console.WriteLine("Congratulations!");
+Console.WriteLine("Congratulations!"); 
+// Console -> Class, WriteLine -> Method, "Congratulations!" -> Literal String, . -> Member access operator
 Console.WriteLine("You wrote your first lines of code");
+
+// Challenge1
+Console.WriteLine("This is the first line.");
+Console.WriteLine("This is the Second Line.");
