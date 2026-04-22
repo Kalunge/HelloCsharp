@@ -1,19 +1,15 @@
-﻿string firstName = "Bob";
+﻿// new Line
+Console.WriteLine("Hello\nWorld!");
 
-int numberOfMessages = 3;
+// Add a tab
+Console.WriteLine("Hello\tWorld!");
 
-double temperature = 34.4;
+// Add double/Single quotes
+Console.WriteLine("Hello \'World\'!");
 
+// Add Backslash
+    // Error
+// Console.WriteLine("c:\source\repos");
+    //Escaped
+Console.WriteLine("c:\\source\\repos");
 
-Console.Write("Hello, ");
-Console.Write(firstName);
-Console.Write(" You Have ");
-Console.Write(numberOfMessages);
-Console.Write(" messages in your inbox. The temperatue is ");
-Console.Write(temperature);
-Console.Write(" celsius.");
-
-Console.WriteLine(" ");
-
-
-Console.WriteLine("Hello," + firstName + " You Have " + numberOfMessages + " messages in your inbox. The temperature is " + temperature + " celsius.");
