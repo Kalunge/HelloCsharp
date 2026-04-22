@@ -1,10 +1,19 @@
-﻿int value = 0; // value is now 0
-value = value + 5; // alue is now 5
+﻿int value = 1;
 
-// addition assignment compound operator
-value += 5; // value is now 10
+value = value + 1;
+Console.WriteLine("First Incrememnt: " + value);
 
-value = value + 1; // adds 1
-value++; // adds 1
+value += 1;
+Console.WriteLine("Second Incrememnt: " + value);
 
-Console.WriteLine(value);
+value++;
+Console.WriteLine("Third incremmnt: " + value);
+
+value = value - 1;
+Console.WriteLine("First decrememnt: " + value);
+
+value -= 1;
+Console.WriteLine("Second decemrent: " + value);
+
+value--;
+Console.WriteLine("Third decrement: " + value);
