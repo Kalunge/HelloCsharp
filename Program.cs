@@ -1,12 +1,19 @@
 ﻿string firstName = "Bob";
 
-Console.WriteLine(firstName);
+int numberOfMessages = 3;
 
-// implicitly typed variaboes
-var message = "Hello World ";
+double temperature = 34.4;
 
-message = "Come Here";
 
-// implicitly typed variables must be initialised
-// var message
+Console.Write("Hello, ");
+Console.Write(firstName);
+Console.Write(" You Have ");
+Console.Write(numberOfMessages);
+Console.Write(" messages in your inbox. The temperatue is ");
+Console.Write(temperature);
+Console.Write(" celsius.");
 
+Console.WriteLine(" ");
+
+
+Console.WriteLine("Hello," + firstName + " You Have " + numberOfMessages + " messages in your inbox. The temperature is " + temperature + " celsius.");
