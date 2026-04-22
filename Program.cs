@@ -1,3 +1,10 @@
-﻿string firstName = "Bob";
-int widgetSold = 7;
-Console.WriteLine(firstName + " sold " + (widgetSold + 7) + " widgets.");
+﻿int sum = 7 + 5;
+int difference = 7 - 5;
+int product = 7 * 5;
+int quotient = 7 / 5;
+
+
+Console.WriteLine("sum " + sum);
+Console.WriteLine("Difference " + difference);
+Console.WriteLine("Product " + product);
+Console.WriteLine("Quotient " + quotient);
