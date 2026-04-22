@@ -1,5 +1,10 @@
-﻿int value1 = 3 + 4 * 5;
-int value2 = (3 + 4) * 5;
+﻿int value = 0; // value is now 0
+value = value + 5; // alue is now 5
 
-Console.WriteLine(value1);
-Console.WriteLine(value2);
+// addition assignment compound operator
+value += 5; // value is now 10
+
+value = value + 1; // adds 1
+value++; // adds 1
+
+Console.WriteLine(value);
