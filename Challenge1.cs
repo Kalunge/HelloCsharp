@@ -4,7 +4,12 @@ public class Test
     {
         // codeComments();
         // checkOrders();
-        formatCodeChallenge();
+        //formatCodeChallenge();
+        // getUserInput();
+        // SwitchCase();
+        // Ternary();
+        DoWHile();
+
     }
 
 
@@ -72,4 +77,56 @@ public class Test
         Console.WriteLine($"'o' appears {charCount} times.");
     }
 
+    private static void getUserInput()
+    {
+        Console.WriteLine("Enter you age--------");
+        int age = Convert.ToInt32(Console.ReadLine());
+        if(age >= 18)
+            Console.WriteLine("You Are an adult");
+        else
+            Console.WriteLine("You are a minor");
+    }
+
+    private static void SwitchCase()
+    {
+        Console.WriteLine("Enter a 5 or a 10: ");
+        int input = Convert.ToInt32(Console.ReadLine());
+
+        switch (input)
+        {
+            case <= 5:
+                Console.WriteLine("You have entered a 5 or less");
+                break;
+            case >= 10:
+                Console.WriteLine("You have entered a 10 or more");
+                break;
+            default:
+                Console.WriteLine("You have neither entered a 5 or a 10");
+                break;
+                
+        }
+    }
+
+    private static void Ternary()
+    {
+        Console.WriteLine("Please Enter your age: ");
+        int age = Convert.ToInt32(Console.ReadLine());
+        
+        Console.WriteLine($"Youhave entered age {age}");
+
+
+        string output = age >= 18 ? "You are an adult" : "You are a minor";
+        Console.WriteLine(output);
+    }
+
+    private static void DoWHile()
+    {
+        int i = 10;
+
+        do
+        {
+            Console.WriteLine($"I is {i}");
+            Console.WriteLine("I am printed though i am less than 10");
+        } while (i < 10);
+    }
 }
